@@ -11,4 +11,5 @@
 
 there is a new code from junior programmer
 
-absolut file
+there is info from main branch
+
